@@ -88,7 +88,7 @@ To set up and run the AOM module locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ErenFB/AOM.git
+   git clone https://github.com/erentavaci/AOM.git
    ```
 
 2. **Navigate to the project directory:**
